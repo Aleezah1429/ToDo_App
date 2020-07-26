@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin-top: 250px;
+}
+.btn:hover {
+    background-color: darkblue;
+    color: white;
+  }
+.btn{
+    margin: 15px;
+    border: 2px solid white;
+    border-radius: 5px;
+}  
+#list{
+    color: white;
+}
